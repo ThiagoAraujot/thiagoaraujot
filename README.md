@@ -1,5 +1,5 @@
 ## Olá! eu sou o Thiago Araujo 
-Desenvolvedor Front-End começando meus estudos em Back-End
+Desenvolvedor Web explorando o ecossistema JavaScript atravéz do MERN Stack
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoaraujot)](https://github.com/anuraghazra/github-readme-stats)
 
