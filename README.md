@@ -1,7 +1,10 @@
 ## Olá! eu sou o Thiago Araujo 
 Desenvolvedor Web explorando o ecossistema JavaScript atravéz do MERN Stack
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoaraujot)](https://github.com/anuraghazra/github-readme-stats)
+<summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=thiagoAraujot&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoAraujot&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
