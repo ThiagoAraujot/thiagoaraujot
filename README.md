@@ -1,5 +1,5 @@
 ## Olá! eu sou o Thiago Araujo 
-Desenvolvedor Web explorando o ecossistema JavaScript através do MERN Stack
+Desenvolvedor Web explorando o ecossistema JavaScript através da MERN Stack
 
 <summary>Github Stats ⚡</summary>
   
