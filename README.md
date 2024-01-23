@@ -1,4 +1,4 @@
-## Olá! eu sou o Thiago Araujo 
+## Olá! eu sou o Thiago Araujo!
 Desenvolvedor Web explorando o ecossistema JavaScript através da MERN Stack
 
 <summary>Github Stats ⚡</summary>
