@@ -1,5 +1,5 @@
-## Olá! eu sou o Thiago Araujo!
-Desenvolvedor Web explorando o ecossistema JavaScript através da MERN Stack
+## Hey! I am Thiago!
+Web developer exploring the JavaScript ecosystem through the MERN Stack
 
 <summary>Github Stats ⚡</summary>
   
@@ -8,7 +8,7 @@ Desenvolvedor Web explorando o ecossistema JavaScript através da MERN Stack
 
   [![SkillIcons](https://skillicons.dev/icons?i=js,nodejs,react,express,mongodb,html,css,bootstrap,py,cs,git,github,figma)](https://skillicons.dev)<br/>
   
-## Entre em contato
+## Contact
 
 <div> 
   <a href="https://www.linkedin.com/in/thiago-araujo-bb4063280/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
