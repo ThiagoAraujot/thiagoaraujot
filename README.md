@@ -1,5 +1,5 @@
 ## Hey! I am Thiago!
-Web developer exploring the JavaScript ecosystem through the MERN Stack
+#### Web developer exploring the JavaScript ecosystem through the MERN Stack
 
 <summary>Github Stats ⚡</summary>
   
