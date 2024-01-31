@@ -6,7 +6,7 @@
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=thiagoAraujot&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoAraujot&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
-  [![SkillIcons](https://skillicons.dev/icons?i=js,nodejs,react,express,mongodb,html,css,bootstrap,py,cs,git,github,figma)](https://skillicons.dev)<br/>
+  [![SkillIcons](https://skillicons.dev/icons?i=js,nodejs,react,vite,express,mongodb,html,css,bootstrap,py,cs,git,github,figma)](https://skillicons.dev)<br/>
   
 ## Contact
 
