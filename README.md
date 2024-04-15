@@ -1,5 +1,5 @@
 ## Hey! I am Thiago!
-#### Web developer exploring the JavaScript ecosystem through the MERN Stack
+#### I'm a software developer with a focus on Software Engineering, currently collaborating at HP Inc. to automate internal processes and systems. With a strong background in both front-end and back-end development, I strive to deliver efficient and innovative solutions.
 
 <summary>Github Stats ⚡</summary>
   
