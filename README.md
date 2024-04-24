@@ -1,6 +1,6 @@
 
 
-<img width=100% src="./assets/Thiago Araujo.png"/>
+<img width=100% src="assets/Thiago Araujo.png"/>
 
 ## About Me
 
