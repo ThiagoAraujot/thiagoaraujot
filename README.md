@@ -16,7 +16,7 @@
   
   [![SkillIcons](https://skillicons.dev/icons?i=js,nodejs,react,vite,express,mongodb)](https://skillicons.dev)<br/>
   [![SkillIcons](https://skillicons.dev/icons?i=py,django,sqlite,selenium)](https://skillicons.dev)<br/>
-  [![SkillIcons](https://skillicons.dev/icons?i=html,css,bootstrap,sass,git,github,postman,figma)](https://skillicons.dev)<br/>
+  [![SkillIcons](https://skillicons.dev/icons?i=html,css,bootstrap,sass,styledcomponents,git,github,postman,figma)](https://skillicons.dev)<br/>
   
 ## Contact
 
