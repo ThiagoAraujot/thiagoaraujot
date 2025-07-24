@@ -1,4 +1,4 @@
-<h2 align="left">Hey dev! My name is Thiago and I'm a FullStack Developer at HP.</h2>
+<h2 align="left">Hey dev! My name is Thiago and I'm Tech Intern at Amazon Web Services (AWS)</h2>
 
 ###
 
